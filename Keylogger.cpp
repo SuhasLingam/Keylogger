@@ -2,6 +2,9 @@
 #include <windows.h>
 using namespace std;
 
+
+
+
 int Save(int _key , char const *file);
 
 int main(){
